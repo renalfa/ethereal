@@ -93,8 +93,9 @@ Deployed on **[Vercel](https://your-vercel-link.com)** (or Netlify).
 - **Ensuring full responsiveness** across devices.
 - **(Bonus) Implementing RainbowKit** for smooth Web3 wallet connection.
 
-<!-- ## Lighthouse Performance Report
-Achieved **90+ score** in performance, accessibility, and best practices. -->
+## Lighthouse Performance Report
+Achieved **90+ score** in performance, accessibility, and best practices.
+![Screenshot 2025-02-05 at 15 04 38](https://github.com/user-attachments/assets/18a4fb62-5bef-44fc-99da-73e812c1fe1e)
 
 ## Contributing
 Feel free to fork and submit PRs for improvements!
