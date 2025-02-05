@@ -15,6 +15,14 @@ Ethereal is a modern, sleek, and futuristic Web3 landing page designed to showca
 - Navigation links with smooth scrolling
 - Mobile-friendly collapsible menu
 - **(Bonus)** Wallet connection button using RainbowKit
+![Screenshot 2025-02-05 at 21 03 34](https://github.com/user-attachments/assets/994841ca-8f4c-46ab-b05b-56752069b8d3)
+![Screenshot 2025-02-05 at 21 03 49](https://github.com/user-attachments/assets/fbaa445a-a25c-4da5-a54b-3a5fa4de81a6)
+
+**NOTE**
+Please make sure you have installed the Metamask extension in your browser
+![Screenshot 2025-02-05 at 21 04 05](https://github.com/user-attachments/assets/2dbb6d75-4382-4a5c-93a1-01606a24ca80)
+![Screenshot 2025-02-05 at 21 04 16](https://github.com/user-attachments/assets/af5621dd-10d9-461a-ac81-3f7bd7631e19)
+
 
 ### 2. Hero Section
 - Impactful tagline: "Discover the Future of Decentralized Art & Finance"
