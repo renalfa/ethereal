@@ -103,5 +103,5 @@ Feel free to fork and submit PRs for improvements!
 MIT License
 
 ---
-Built with ❤️ by [Your Name]
+Built with ❤️ by Reynald
 
