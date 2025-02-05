@@ -27,7 +27,7 @@ const Footer = () => {
           </h1>
           <div className="flex items-center gap-6">
             {sosmeds.map((item, i) => (
-              <item.icon className="transition-all duration-300 cursor-pointer hover:text-blue-500 hover:rotate-12" />
+              <item.icon key={i} className="transition-all duration-300 cursor-pointer hover:text-blue-500 hover:rotate-12" />
             ))}
           </div>
         </div>
@@ -48,7 +48,7 @@ const Footer = () => {
             contact
           </h2>
           {siteFooterData.contact.map((item, i) => (
-            <p className="text-sm font-light tracking-wide">
+            <p key={i} className="text-sm font-light tracking-wide">
               <span className="font-bold">{item.label} :</span> {item.value}
             </p>
           ))}

@@ -8,7 +8,6 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
-import { ConnectButton } from "@rainbow-me/rainbowkit";
 
 import { Menu } from "lucide-react";
 

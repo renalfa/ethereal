@@ -13,7 +13,7 @@ import "@rainbow-me/rainbowkit/styles.css";
 
 const client = new QueryClient();
 
-const Web3Provider = ({ children }: any) => {
+const Web3Provider = ({ children }: { children: React.ReactNode }) => {
   const { theme } = useTheme();
 
   return (
